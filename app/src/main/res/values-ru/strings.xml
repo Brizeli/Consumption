@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Расход топлива</string>
+    <string name="km_1l">км/л</string>
+    <string name="l_100km">л/100км</string>
+    <string name="count">Посчитать</string>
+    <string name="current_mileage">Текущий пробег</string>
+    <string name="liters_fueled">Заправлено литров</string>
+    <string name="previous_mileage">Предыдущий пробег</string>
+    <string name="new_fuelling">Новая заправка</string>
+    <string name="last_fueling_label">Последняя заправка:\u0020</string>
+    <string name="never_fueled">Ни разу не заправлялся</string>
+    <string name="clear_data">Очистить все данные</string>
+    <string name="history">История</string>
+    <string name="data_saved">Запись добавлена</string>
+    <string name="date">Дата</string>
+    <string name="mileage">Пробег</string>
+    <string name="amount">Количество</string>
+    <string name="consumption">Расход</string>
+    <string name="avg_consumption">Средний расход:\u0020</string>
+    <string name="title_remove_dialog">Удаление записи</string>
+    <string name="msg_remove_dialog">Подтвердить удаление?</string>
+    <string name="delete_confirm">Удалить</string>
+    <string name="cancel">Отмена</string>
+    <string name="show_on_map">Показать на карте</string>
+    <string name="btn_mileage_predict">Прогноз пробега</string>
+    <string name="show_confirm">Показать</string>
+    <string name="txtVw_tank_volume">Объем бака</string>
+    <string name="close">Закрыть</string>
+    <string name="msg_not_enough_records">Не достаточно данных</string>
+    <string name="change_units_history">Ед. изм.</string>
+    <string name="current_consumption">Текущий</string>
+    <string name="average">Средний</string>
+    <string name="save">Сохранить</string>
+    <string name="clear_data_confirm">Это удалит все записи.\nВы уверены?</string>
+    <string name="previous_mileage_trim">Предыдущий</string>
+    <string name="current_mileage_trim">Текущий</string>
+    <string name="price">Цена</string>
+    <string name="cost">Стоимость</string>
+    <string name="backup">Сохранить на SD</string>
+    <string name="restore">Восстановить с SD</string>
+    <string name="backup_done">Сохранено на SD</string>
+    <string name="record_deleted">Запись удалена</string>
+</resources>
